@@ -1,0 +1,2 @@
+contactmanagementsystem.DeleteContact
+contactmanagementsystem.SearchContact
